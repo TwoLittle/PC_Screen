@@ -1,9 +1,8 @@
 # PC_Screen
 
-If you use PC_Screen (Projection correlation for feature screening) in publications, we would appreciate citations of the following paper:
-  Model-free Feature Screening with Projection Correlation and FDR Control with Knockoff Features
+If you use PC_Screen (Projection correlation for feature screening) in publications, we would appreciate citations of the following paper: Model-free Feature Screening and FDR Control with Knockoff Features
 
-The file PC_screen.py provides the codes of main functions for the manuscript "Model-free Feature Screening and FDR Control with Knockoff Features". The codes are written in Python 2.7
+The file PC_screen.py provides the codes of main functions for the paper "Model-free Feature Screening and FDR Control with Knockoff Features". The codes are written in Python 2.7
 
 Main functions
 
