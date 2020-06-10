@@ -12,4 +12,4 @@ Main functions
 
 2. get_equi_features(X) -- output the equicorrelated knockoff counterpart of X, where is a 2d array.
 
-##### If you use PC_Screen (Projection correlation for feature screening) in publications, we would appreciate citations of the following paper: Model-free Feature Screening and FDR Control with Knockoff Features
+#### If you use PC_Screen (Projection correlation for feature screening) in publications, we would appreciate citations of the following paper: Model-free Feature Screening and FDR Control with Knockoff Features
